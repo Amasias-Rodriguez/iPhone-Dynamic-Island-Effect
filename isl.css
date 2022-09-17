@@ -61,3 +61,13 @@ body{
     background: radial-gradient(#ccc,#666,#222);
     z-index: 10;
 }
+
+.btn.btn2{
+    top: 160px;
+    height: 40px;
+}
+
+.btn.btn3{
+    top: 220px;
+    height: 40px;
+}
