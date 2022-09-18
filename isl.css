@@ -38,7 +38,7 @@ body{
     background: url(/imagenes/bg.jpg);
     background-size: cover;
     background-position: center;
-    border-radius: 48px;
+    border-radius: 49px;
     border: 10px solid #000;
     display: flex;
     justify-content: center;
